@@ -1,9 +1,10 @@
+import Menu from "./Menu"
 
 
 const Body = () => {
   return (
     <div>
-        <h1>This is Body Component</h1>
+        <Menu></Menu>
     </div>
   )
 }
